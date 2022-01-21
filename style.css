@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
+table {
+  border-collapse: collapse;
+  border: 2px #ffc107;
+  font-family: roboto;
+  width: 600px;
+}
+th {
+  text-align: center;
+  background-color: #ffc107;
+  padding: 20px;
+  border: 2px #ffc107;
+  font-weight: 700;
+}
+td {
+  text-align: left;
+  padding: 20px;
+  background-color: #382c6e;
+  color: white;
+  border: 1px solid #ffc107;
+
+}
+.h-middle {
+    background-color: #e5ae30;
+}
